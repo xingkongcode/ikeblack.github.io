@@ -1,6 +1,6 @@
 ## Welcome to IKEBLACK
 
-ikeblack是ikeblue团队下的分支，去往[ikeblie](https://ikeblue.github.io)
+ikeblack是ikeblue团队下的分支，去往[ikeblue](https://ikeblue.github.io)
 
 ### Markdown
 
